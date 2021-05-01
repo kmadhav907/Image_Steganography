@@ -9,3 +9,4 @@ For more info on PSNR do check out this link:
 <br>
 For more info on Image Steganography check out this link<br>
 <a href='https://en.wikipedia.org/wiki/Steganography'>link</a>
+## PSNR is yet to be caculated
